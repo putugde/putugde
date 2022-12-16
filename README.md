@@ -10,6 +10,7 @@ I'm a web developer that also interested in machine learning, especially NLP.
 <br/>
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=putugde" alt="putugde" /> </p>
 
 <!--
 **putugde/putugde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
