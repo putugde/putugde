@@ -3,10 +3,10 @@
 I'm a web developer that also interested in machine learning, especially NLP.
 
 #### Github Stat
-[![Putu's github stats](https://github-readme-stats.vercel.app/api?username=putugde&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Putu's github stats](https://github-readme-stats-eta-puce.vercel.app/api?username=putugde&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=putugde&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eta-puce.vercel.app/api/top-langs/?username=putugde&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 
