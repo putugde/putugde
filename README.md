@@ -1,7 +1,5 @@
 ### Hi there, I'm Putu 👋
 
-I'm a web developer that also interested in machine learning, especially NLP.
-
 #### Github Stat
 [![Putu's github stats](https://github-readme-stats-putugde.vercel.app/api?username=putugde&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
